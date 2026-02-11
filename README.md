@@ -4,8 +4,6 @@ A full stack real time NBA analytics dashboard with ML powered moneyline predict
 
 **For informational and educational purposes only. Not financial advice.**
 
-[![Watch Demo](https://img.youtube.com/vi/Qj6MCQIuOuw/0.jpg)](https://youtu.be/Qj6MCQIuOuw)
-
 ---
 
 ## Screenshots
@@ -31,6 +29,10 @@ A full stack real time NBA analytics dashboard with ML powered moneyline predict
 ![Pick Tracker](./resources/picktracker.png)
 
 ---
+
+## Click This Image To Watch Demo
+
+[![Watch Demo](https://img.youtube.com/vi/Qj6MCQIuOuw/0.jpg)](https://youtu.be/Qj6MCQIuOuw)
 
 ## Features
 

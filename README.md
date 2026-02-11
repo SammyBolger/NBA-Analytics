@@ -34,6 +34,8 @@ A full stack real time NBA analytics dashboard with ML powered moneyline predict
 
 [![Watch Demo](https://img.youtube.com/vi/Qj6MCQIuOuw/0.jpg)](https://youtu.be/Qj6MCQIuOuw)
 
+---
+
 ## Features
 
 - **User accounts** with signup/login and per user pick isolation

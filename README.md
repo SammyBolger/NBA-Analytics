@@ -8,18 +8,25 @@ A full stack real time NBA analytics dashboard with ML powered moneyline predict
 
 ## Screenshots
 
-### Login Page
-![Login Page](./resources/login.png)
-
 ---
 
 ### Home Dashboard
-![Home Dashboard](./resources/home.png)
+![Home Dashboard](./resources/thumbnail.png)
+
+---
+
+### Gamecenter
+![Gamecenter](./resources/gamecenter.png)
 
 ---
 
 ### Odds & Lines
 ![Odds & Lines](./resources/odds.png)
+
+---
+
+### Pick Tracker
+![Pick Tracker](./resources/picktracker.png)
 
 ---
 

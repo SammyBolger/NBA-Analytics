@@ -1,6 +1,6 @@
 # NBA Betting Analytics Pipeline
 
-A full stack real-time NBA analytics dashboard with ML-powered moneyline predictions. Sign up, track your picks, view live game data, and see how your record stacks up — all powered by a logistic regression model trained on rolling team statistics.
+A full stack real time NBA analytics dashboard with ML powered moneyline predictions. Sign up, track your picks, view live game data, and see how your record stacks up, all powered by a logistic regression model trained on rolling team statistics.
 
 **For informational and educational purposes only. Not financial advice.**
 
@@ -25,15 +25,15 @@ A full stack real-time NBA analytics dashboard with ML-powered moneyline predict
 
 ## Features
 
-- **User accounts** with signup/login and per-user pick isolation
+- **User accounts** with signup/login and per user pick isolation
 - **Home dashboard** with W-L record, today's games, and interactive game calendar
 - **Gamecenter** with live, scheduled, and final game cards (auto-refresh every 15s)
-- **Odds & Lines** with ML-computed moneylines, probability bars, confidence levels, and one-click pick buttons
+- **Odds & Lines** with ML computed moneylines, probability bars, confidence levels, and one click pick buttons
 - **Pick Tracker** with active picks view, pick history toggle, and automatic grading
 - **Model Health** page with ML metrics and manual retrain button
 - **About page** with project explanation, moneyline disclaimer, and responsible gambling notice
-- **Dark theme** professional NBA-inspired design
-- **Future-proof** with auto-detected season dates and dynamic year rollover
+- **Dark theme** professional NBA inspired design
+- **Future-proof** with auto detected season dates and dynamic year rollover
 
 ---
 

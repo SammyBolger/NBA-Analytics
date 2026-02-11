@@ -21,7 +21,7 @@ A full stack real time NBA analytics dashboard with ML powered moneyline predict
 ---
 
 ### Odds & Lines
-![Odds & Lines](./resources/odds.png)
+![Odds & Lines](./resources/lines.png)
 
 ---
 
